@@ -1,6 +1,9 @@
-# BMI-MobileApp
+# BMI Calculator - A Simple Mobile Application
 
-To-Do
+<p align="center">
+  <h2>Here is the app running on a iOS device<h2>
+</p>
+
 
 
 
